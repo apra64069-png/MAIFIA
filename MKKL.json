@@ -4,7 +4,7 @@
     "username": "amitmods",
     "password": "amitmods",
     "expiresAt": "2026-7-3",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "android_device_id_2",
